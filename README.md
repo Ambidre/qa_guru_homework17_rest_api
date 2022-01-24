@@ -1,4 +1,4 @@
-# API-автотесты для [Reqres](https://reqres.in/)
+# Задание 17. API-автотесты для [Reqres](https://reqres.in/)
 
 ## Покрытый функционал
 
