@@ -1,14 +1,14 @@
 # API-автотесты для [Reqres](https://reqres.in/)
 
-## <img width="4%" title="Functional" src="images/functional.png"> Покрытый функционал
+## Покрытый функционал
 
 > Разработаны автотесты на <code>API</code>.
 ### API
 
-- [x] Запросы <code>GET</code>, <code>POST</code>, <code>PUT</code>, <code>PATCH</code> и <code>DELETE</code>
+- [x] Запросы <code>GET</code>, <code>POST</code>, <code>DELETE</code>, <code>PUT</code> и <code>PATCH</code> 
 - [x] Отображение <code>statusCode</code> и <code>body</code> в ответе запроса
 
-## <img width="4%" title="Technologies" src="images/technologies.png"> Технологический стек
+## Технологический стек
 
 <p align="center">
 <img width="6%" title="IntelliJ IDEA" src="images/logo/Intelij_IDEA.svg">
@@ -24,7 +24,7 @@
 > Для автоматизированной сборки проекта используется <code>Gradle</code>.
 >
 > В качестве библиотеки для модульного тестирования используется <code>JUnit 5</code>.
-## <img width="4%" title="Terminal" src="images/terminal.png"> Запуск тестов из терминала
+## Запуск тестов из терминала
 
 ### :joystick: Локальный запуск тестов
 
